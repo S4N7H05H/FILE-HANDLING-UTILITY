@@ -33,3 +33,5 @@ Each function is modular, robust, and error-handled to prevent runtime failures.
 This project strengthens understanding of Java I/O streams, resource management, and exception handling, forming the foundation for larger applications like text editors, log analyzers, and data-storage utilities. It reflects clear code structure, readability, and interactivity—key skills for professional software development.
 
 # OUTPUT 
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/f171f01c-575b-4c62-94a0-f2ec53292539" />
